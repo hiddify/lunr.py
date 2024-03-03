@@ -13,6 +13,7 @@ from lunr.stop_word_filter import stop_word_filter, generate_stop_word_filter
 # Languages upported by nltk but not lunr.js: arabic
 
 SUPPORTED_LANGUAGES = {
+    "fa": "arabic",
     "ar": "arabic",
     "da": "danish",
     "nl": "dutch",
